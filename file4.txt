@@ -1,1 +1,2 @@
-new branch new file 4
+new branch new file 4, modified in newbranch
+
